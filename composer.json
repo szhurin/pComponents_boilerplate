@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/szhurin/pComponents.git"
+        }
+    ],
+    "require": {
+        "szhurin/pComponents": "dev-master"
+    }
+}
