@@ -1,11 +1,13 @@
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/szhurin/pComponents.git"
-        }
+    "repositories":[
+	{
+	    "type": "vcs",
+	    "url": "https://github.com/szhurin/pComponents.git"
+	}
     ],
     "require": {
+        "silex/silex": "2.0.*@dev",
+        "twig/twig": "1.16.*@dev",
         "szhurin/pComponents": "dev-master"
     }
 }

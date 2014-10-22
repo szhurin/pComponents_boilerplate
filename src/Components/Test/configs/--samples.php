@@ -1,0 +1,1 @@
+<?php return array("real sample file name"=>"requested file name");
